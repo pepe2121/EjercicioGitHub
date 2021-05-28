@@ -1,1 +1,2 @@
-a. Chacon, S. and Straub... 
+a. Chacon, S. and Straub , b. Pro git 
+b. Loeliger, J and McCullough, m. version 
