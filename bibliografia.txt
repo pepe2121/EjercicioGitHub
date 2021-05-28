@@ -1,2 +1,3 @@
-a. Chacon, S. and Straub , b. Pro git 
-b. Loeliger, J and McCullough, m. version 
+a. Chacon, S. and Straub, b... 
+b. Loeliger, J. and mccullough 
+c. Hodson, R. Ry's Git Tutoria 
